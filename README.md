@@ -1,2 +1,2 @@
 # hello-world
-just getting started
+Created initially for Flatiron Data Science
